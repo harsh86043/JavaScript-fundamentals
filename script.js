@@ -30,3 +30,10 @@ if(isParampara){
 else{
     console.log("padhai pe dhayan do ")
 }
+var myHealthIsFine=true
+if(myHealthIsFine){
+    console.log("I will go on vacation")
+}
+else{
+    console.log("I will rest")
+}
